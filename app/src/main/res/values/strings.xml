@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">paysera_uzduotis</string>
+    <string name="text_title_name">Balance</string>
+    <string name="button_convert_currency">Convert currency</string>
+    <string name="text_eur_values">Euro:</string>
+    <string name="text_usd_values">USD:</string>
+    <string name="text_jpy_values">JPY:</string>
+    <string name="hint_amount_to_convert">Amount to Convert</string>
+    <string name="text_to">To:</string>
+    <string name="text_from">From</string>
+    <string name="button_convert">Convert</string>
+    <string name="Button_return">Return</string>
+
+    <string-array name="spinner_string_array">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>JPY</item>
+    </string-array>
+</resources>
